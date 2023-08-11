@@ -1,8 +1,12 @@
+
 first:
-  name: The bigger they are, the louder they fall
+  company: kpmg
+  name: First quote
 
 second:
-  name: I want to break free
+  company: kpmg
+  name: Second quote
 
 third:
-  name: I want to make a supersonic man out of you!
+  company: kpmg
+  name: Third quote
